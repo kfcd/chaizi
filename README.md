@@ -10,7 +10,7 @@
 ## 檔案說明
 
 * `chaizi-ft.txt`：拆字字典（繁體版）
-* `chaizi-jt.txt`：拆字字典（繁體版）
+* `chaizi-jt.txt`：拆字字典（簡體版）
 * `fanjian_suoyin.txt`：對照繁/簡體字的條目索引
 
 ## 範例
